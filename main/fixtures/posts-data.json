@@ -8,7 +8,7 @@
             "lat": "33.472399",
             "lng": "126.548659",
             "address": "제주 제주시 인다13길 28 1층",
-            "mainphoto": "",
+            "mainphoto": "static/01_이큐티.jpg",
             "url": "https://www.instagram.com/eqtykr/"
         }
     },
@@ -21,7 +21,7 @@
             "lat": "33.409921",
             "lng": "126.271560",
             "address": "제주 제주시 한림읍 일주서로 5153",
-            "mainphoto": "",
+            "mainphoto": "02_카페닐스.jpg",
             "url": "https://www.instagram.com/cafenils/"
         }
     },
@@ -34,7 +34,7 @@
             "lat": "33.226042",
             "lng": "126.252362",
             "address": "제주 서귀포시 대정읍 하모중앙로 22 1층 카페블루하우스 모슬포점",
-            "mainphoto": "",
+            "mainphoto": "03_카페블루하우스.jpg",
             "url": "https://www.instagram.com/bluehaus_jeju/"
         }
     },
@@ -47,7 +47,7 @@
             "lat": "33.234146",
             "lng": "126.290500",
             "address": "제주특별자치도 서귀포시 안덕면 향교로 214",
-            "mainphoto": "",
+            "mainphoto": "static/04_오피스사계.jpg",
             "url": "http://o-peace.com/"
         }
     },
@@ -152,8 +152,6 @@
             "lng": "126.541519",
             "address": "제주특별자치도 제주시 아란3길 13-3 아라지엘지 2층",
             "mainphoto": "",
-            "published_date": "2022-09-01 21:44",
-            "modified_date": "2022-09-01 21:44",
             "url": "https://www.instagram.com/vlab365.jeju/"
         }
     },
